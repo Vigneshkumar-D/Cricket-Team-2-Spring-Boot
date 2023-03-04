@@ -1,0 +1,30 @@
+2023-03-02 17:18:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from TEAM [42104-214]
+2023-03-02 17:18:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from team where playerId = ? [42104-214]
+2023-03-02 17:19:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from team where playerId = ? [42104-214]
+2023-03-02 17:32:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from team where playerId = ? [42104-214]
+2023-03-02 17:33:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from team where playerId = ? [42104-214]
+2023-03-02 17:33:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from TEAM [42104-214]
+2023-03-03 03:45:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from TEAM [42104-214]
+2023-03-03 03:45:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from TEAM [42104-214]
+2023-03-03 03:50:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from team where playerId = ? [42104-214]
+2023-03-03 03:55:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TEAM" not found (this database is empty); SQL statement:
+select * from team where playerId = ? [42104-214]
